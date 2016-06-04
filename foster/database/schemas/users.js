@@ -1,3 +1,3 @@
-/**
- * Created by kimberlylewis on 6/4/16.
- */
+var mongoose = require('mongoose');
+var bcrypt = require('bcrypt');
+var Schema = mongoose.Schema;
