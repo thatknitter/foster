@@ -1,0 +1,18 @@
+
+
+
+button {
+	color: #555555; /* Black */
+	background-color: #4CAF50; /*Green */
+	border: none;
+	padding: 15 px 32 px;
+	width: 30 px;
+	height: 30 px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size:24 px;
+	margin:4px 2px;
+	border-radius: 50%;
+	cursor: pointer;
+}
