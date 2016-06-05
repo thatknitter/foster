@@ -1,0 +1,14 @@
+.main {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+
+textarea {
+  resize: none;
+  max-width: 95%;
+}
+ .password, .username {
+  text-align: left;
+ }

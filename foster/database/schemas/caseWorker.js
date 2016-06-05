@@ -42,4 +42,4 @@ caseWorkerSchema.methods.comparePassword = function (triedPassword, cb) {
 
 var caseUser = mongoose.model('User', caseWorkerSchema);
 
-module.exports = User;
+module.exports = caseUser;
